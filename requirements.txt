@@ -1,0 +1,3 @@
+streamlit
+scikit-learn
+# Add other dependencies as needed
